@@ -1,0 +1,122 @@
+[
+    {
+        "url": "https://www.python.org/",
+        "title": "Welcome to Python.org",
+        "meta_description": "The official home of the Python Programming Language",
+        "h1": "Intuitive Interpretation"
+    },
+    {
+        "url": "https://www.python.org/psf/",
+        "title": "Python Software Foundation",
+        "meta_description": "The official home of the Python Programming Language",
+        "h1": "The Python Software Foundation is the charitable organization behind the Python programming language."
+    },
+    {
+        "url": "https://www.python.org/jobs/",
+        "title": "Python Job Board | Python.org",
+        "meta_description": "The official home of the Python Programming Language",
+        "h1": "27 jobs on the Python Job Board"
+    },
+    {
+        "url": "https://www.python.org/community/",
+        "title": "Our Community | Python.org",
+        "meta_description": "The official home of the Python Programming Language",
+        "h1": "Python\u2019s community is vast; \ndiverse & aims to grow; \nPython is Open."
+    },
+    {
+        "url": "https://www.python.org/community/irc/",
+        "title": "Internet Relay Chat | Python.org",
+        "meta_description": "The official home of the Python Programming Language",
+        "h1": "Internet Relay Chat"
+    },
+    {
+        "url": "https://www.python.org/about/",
+        "title": "About Python\u2122 | Python.org",
+        "meta_description": "The official home of the Python Programming Language",
+        "h1": "Python is powerful... and fast; \r\n    plays well with others; \r\n    runs everywhere; \r\n    is friendly & easy to learn; \r\n    is Open."
+    },
+    {
+        "url": "https://www.python.org/about/apps/",
+        "title": "Applications for Python | Python.org",
+        "meta_description": "The official home of the Python Programming Language",
+        "h1": "Applications for Python"
+    },
+    {
+        "url": "https://www.python.org/about/quotes/",
+        "title": "Quotes about Python | Python.org",
+        "meta_description": "The official home of the Python Programming Language",
+        "h1": "Quotes about Python"
+    },
+    {
+        "url": "https://www.python.org/about/gettingstarted/",
+        "title": "Python For Beginners | Python.org",
+        "meta_description": "The official home of the Python Programming Language",
+        "h1": "Python For Beginners"
+    },
+    {
+        "url": "https://www.python.org/about/help/",
+        "title": "Help | Python.org",
+        "meta_description": "The official home of the Python Programming Language",
+        "h1": "Help"
+    },
+    {
+        "url": "https://www.python.org/downloads/",
+        "title": "Download Python | Python.org",
+        "meta_description": "The official home of the Python Programming Language",
+        "h1": "Download the latest version for Android"
+    },
+    {
+        "url": "https://www.python.org/downloads/source/",
+        "title": "Python Source Releases | Python.org",
+        "meta_description": "The official home of the Python Programming Language",
+        "h1": "Python Source Releases"
+    },
+    {
+        "url": "https://www.python.org/downloads/windows/",
+        "title": "Python Releases for Windows | Python.org",
+        "meta_description": "The official home of the Python Programming Language",
+        "h1": "Python Releases for Windows"
+    },
+    {
+        "url": "https://www.python.org/downloads/macos/",
+        "title": "Python Releases for macOS | Python.org",
+        "meta_description": "The official home of the Python Programming Language",
+        "h1": "Python Releases for macOS"
+    },
+    {
+        "url": "https://www.python.org/downloads/android/",
+        "title": "Python Releases for Android | Python.org",
+        "meta_description": "The official home of the Python Programming Language",
+        "h1": "Python Releases for Android"
+    },
+    {
+        "url": "https://www.python.org/downloads/ios/",
+        "title": "Python Releases for iOS | Python.org",
+        "meta_description": "The official home of the Python Programming Language",
+        "h1": "Python Releases for iOS"
+    },
+    {
+        "url": "https://www.python.org/download/other/",
+        "title": "Download Python for other platforms | Python.org",
+        "meta_description": "The official home of the Python Programming Language",
+        "h1": "Download Python for other platforms"
+    },
+    {
+        "url": "https://www.python.org/download/alternatives",
+        "title": "Alternative Python implementations | Python.org",
+        "meta_description": "This site hosts the \"traditional\" implementation of Python (nicknamed CPython). A number of alternative implementations are available as well and several vendors have repackaged CPython to include more libraries or specialized it for a particular application.",
+        "h1": "Alternative Python implementations"
+    },
+    {
+        "url": "https://www.python.org/doc/",
+        "title": "Our Documentation | Python.org",
+        "meta_description": "The official home of the Python Programming Language",
+        "h1": "Browse the docs online or download a copy of your own."
+    },
+    {
+        "url": "https://www.python.org/doc/av",
+        "title": "Audio/Video Instructional Materials for Python | Python.org",
+        "meta_description": "A growing body of podcasts, screencasts and video presentations for the Python community.",
+        "h1": "Audio/Video Instructional Materials for Python"
+    }
+]
