@@ -7,7 +7,7 @@ from checker import check_seo
 
 
 app = Flask(__name__)
-latest_rsults=[]
+latest_results=[]
 
 
 @app.route("/")
